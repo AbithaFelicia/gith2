@@ -1,0 +1,13 @@
+git init
+gut clone 
+cd
+git fetch
+gut pull
+git push
+git branch update-2.0
+git checkout update-2.0
+git merge main
+git pull
+git submodule update
+gut config alias.cl clone 
+git cl
